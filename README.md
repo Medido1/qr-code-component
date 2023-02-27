@@ -12,7 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![alt text](https://github.com/[Medido1]/[qr-code-component]/blob/[main]/FireShot Capture 001 - Frontend Mentor - QR code component - 127.0.0.1.png?raw=true)
+![alt text]![FireShot Capture 001 - Frontend Mentor - QR code component - 127 0 0 1](https://user-images.githubusercontent.com/87072191/221565888-f0cb7e42-0815-461c-95a1-1fecea3b18fd.png)
 
 ### Links
 
