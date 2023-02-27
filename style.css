@@ -54,3 +54,7 @@ img {
     padding: 1rem;
   }
 }
+
+h1 {
+  visibility: hidden;
+}
